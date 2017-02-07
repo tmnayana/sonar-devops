@@ -1,0 +1,14 @@
+C:\Devops\tudu-2\sources\tudu-core\src\test\java\tudu\service\impl\TodoListsManagerImplTest.java
+C:\Devops\tudu-2\sources\tudu-core\src\test\java\tudu\service\impl\UserManagerImplTest.java
+C:\Devops\tudu-2\sources\tudu-core\src\test\java\tudu\security\UserDetailsServiceImplTest.java
+C:\Devops\tudu-2\sources\tudu-core\src\test\java\tudu\domain\model\comparator\TodoByAssignedUserComparatorTest.java
+C:\Devops\tudu-2\sources\tudu-core\src\test\java\tudu\domain\model\comparator\TodoByAssignedUserAscComparatorTest.java
+C:\Devops\tudu-2\sources\tudu-core\src\test\java\tudu\integration\IntegrationTest.java
+C:\Devops\tudu-2\sources\tudu-core\src\test\java\tudu\domain\model\comparator\TodoByDueDateAscComparatorTest.java
+C:\Devops\tudu-2\sources\tudu-core\src\test\java\tudu\service\impl\TodosManagerImplTest.java
+C:\Devops\tudu-2\sources\tudu-core\src\test\java\tudu\domain\model\comparator\TodoByDueDateComparatorTest.java
+C:\Devops\tudu-2\sources\tudu-core\src\test\java\tudu\domain\model\comparator\TodoByPriorityAscComparatorTest.java
+C:\Devops\tudu-2\sources\tudu-core\src\test\java\tudu\domain\model\comparator\TodoByDescriptionComparatorTest.java
+C:\Devops\tudu-2\sources\tudu-core\src\test\java\tudu\domain\model\comparator\TodoByDescriptionAscComparatorTest.java
+C:\Devops\tudu-2\sources\tudu-core\src\test\java\tudu\domain\model\TodoTest.java
+C:\Devops\tudu-2\sources\tudu-core\src\test\java\tudu\service\impl\ConfigurationManagerImplTest.java
